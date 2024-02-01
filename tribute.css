@@ -1,0 +1,46 @@
+body{
+  background-image: url("/music4.jpg");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ 
+}
+header{
+  text-align: center;
+  font-size: 50px;
+}
+.about{
+display:flex;
+flex-direction: row;
+justify-content: space-around;
+}
+
+.music{
+  display:flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.ABOUTAWARDS{
+ text-align: center;
+}
+.awards{
+  display:flex;
+  justify-content: center;
+}
+span{
+  color:brown;
+}
+a{
+  /* text-decoration: none; */
+  color: white;
+}
+.aboutmusic h3{
+  text-align: center;
+}
+.aboutmusic p{
+  text-align: center;
+}
+footer{
+  text-align: center;
+}
